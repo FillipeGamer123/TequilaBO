@@ -1502,4 +1502,4 @@ Phantom.on("message", message => {
 
 if(message.channel.type == "dm") return 
 })
-Phantom.login("NzA2OTY0NTkxNTg5OTgyMzE5.XrB6Kg.dPJ5g6lJ6BtaNNntUoFrGGc-W9o"); //Token do bot
+Phantom.login("AQUI NAO DIVULGO"); //Token do bot
